@@ -1,0 +1,7 @@
+### Restaurant order program
+
+In this it displays a restaurant menu, includes food items with their prices in USD.
+It asks the user to order from the menu, If the ordered item is in the menu it adds to the order.
+If the item is not in the menu, asks the customer to order something else.
+
+In the end it calculates the total price of the ordered food and displays it .
