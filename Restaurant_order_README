@@ -1,7 +1,17 @@
 ### Restaurant order program
 
-In this it displays a restaurant menu, includes food items with their prices in USD.
-It asks the user to order from the menu, If the ordered item is in the menu it adds to the order.
-If the item is not in the menu, asks the customer to order something else.
+This Python program simulates a restaurant ordering system. It displays a restaurant menu with food items and their prices (in USD), allows customers to place orders, and calculates the total cost of the order.
 
-In the end it calculates the total price of the ordered food and displays it .
+Features
+
+Displays a menu with food items and their prices.
+
+Accepts customer orders.
+
+Validates whether the ordered item is on the menu.
+
+Adds valid items to the order.
+
+Prompts the customer to order something else if an item is not available.
+
+Calculates and displays the total price of the ordered food.
